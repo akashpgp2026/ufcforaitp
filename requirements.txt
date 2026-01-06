@@ -1,4 +1,10 @@
 streamlit
 markitdown
 python-pptx
-
+pandas
+openpyxl
+python-docx
+python-pptx
+beautifulsoup4
+pdfminer.six
+requests
